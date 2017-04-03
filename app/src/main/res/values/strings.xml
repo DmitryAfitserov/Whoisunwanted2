@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Who is unwanted</string>
+    <string name="answer_true">Выберите лишнюю картинку</string>
+    <string name="answer_false">Не правильно</string>
+    <string name="luck">У вас получилось</string>
+    <string name="next_level">Следующий уровень</string>
+    <string name="want_exit">Выйти из игры?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="x_lives">x%1$s</string>
+    <string name="row_score">Очки : %1$s</string>
+    <string name="text_with_place">Вы уверены, вы набрали  %1$s очков</string>
+    <string name="text_with_place_result">Вы набрали  %1$s очков</string>
+    <string name="result_text">Рейтинг</string>
+    <string name="if_you_dont_have_lives">Если у вас кончились жизни, вы можете их восстановить
+        посмотрев видео или они востановятся самостоятельно в течени одного дня</string>
+    <string name="zero_lives">У вас О жизней</string>
+    <string name="return_text">Восстановить</string>
+    <string name="close">Зактыть</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="not_result"> -- -- </string>
+
+</resources>
